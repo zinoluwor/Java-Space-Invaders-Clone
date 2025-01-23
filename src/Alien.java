@@ -11,7 +11,7 @@ public class Alien extends Object{
     int alienY = 75;
     int alienWidth = 35;
     int alienHeight = 25;
-    int alienSpeed = 6;
+    int alienSpeed = 1;
 
     boolean alienAlive = true;
     Image alien1Img;
