@@ -19,7 +19,7 @@ To run this game locally, follow these steps:
 
 To run the Game.java file in the terminal, follow these steps:
 
-1. Open the terminal in Visual Studio Code.
+1. Open the terminal on your Desktop.
 2. Navigate to the directory containing the `Game.java` file.
 3. Compile the Java file using the `javac` command:
     ```sh
