@@ -35,4 +35,3 @@ To run the Game.java file in the terminal, follow these steps:
 
 Use the arrow keys to move your spaceship and the spacebar to shoot. The objective is to destroy all the invading aliens before they reach the bottom of the screen. Each alien destroyed will increase your score. Avoid getting hit by the aliens' projectiles, as this will reduce your lives. The game ends when you lose all your lives or when the aliens reach the bottom of the screen.
 
-Use the arrow keys to move your spaceship and the spacebar to shoot.
